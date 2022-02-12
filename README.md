@@ -2,7 +2,7 @@
 
 Json server to fetch movies information 🗄🚀
 
-[https://my-json-server.typicode.com/Alejandro-Repizo/movies-json-server](https://my-json-server.typicode.com/Alejandro-Repizo/product-json-server)
+[https://my-json-server.typicode.com/Alejandro-Repizo/movies-json-server](https://my-json-server.typicode.com/Alejandro-Repizo/movies-json-server)
 
 ## Use your own data
 
